@@ -1,6 +1,6 @@
 
 ### [Live Site](https://z-bahaa-shop-1.netlify.app/)
 
-# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+# React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
 ![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
